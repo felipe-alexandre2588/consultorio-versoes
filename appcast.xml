@@ -3,6 +3,21 @@
     <channel>
         <title>Consultorio</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 07 Oct 2026 20:28:49 -0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- A linha do tempo da ficha ficou mais limpa: cada atendimento é uma linha, e clicar na data abre o prontuário.
+- Agora há dois endereços em Ajustes → Profissional: o da receita (cabeçalho dos documentos) e o do atendimento (mensagens de confirmação).
+- A faixa "Modo de revisão" aparece inteira na ficha do paciente.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio-0.1.1.zip" length="10748643" type="application/octet-stream" sparkle:edSignature="jTqmznwvV+9+JxMtRLNwtgE2dzApml58RUrFbGVju0JYdXzXzW954M0lNvwcLsL18A5uFCR1ENT4CLgXlJMLCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio3-2.delta" sparkle:deltaFrom="2" length="1110578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Klxa426LFGvff7txBv/g+Q4rvcT/m8tO6+hkz2lP5tIv+6CgbArkQmUJh3AJssuTLJPTOLsCdut+/NZUMoxCAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Wed, 07 Oct 2026 19:24:15 -0300</pubDate>
             <sparkle:version>2</sparkle:version>

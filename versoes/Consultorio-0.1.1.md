@@ -1,0 +1,3 @@
+- A linha do tempo da ficha ficou mais limpa: cada atendimento é uma linha, e clicar na data abre o prontuário.
+- Agora há dois endereços em Ajustes → Profissional: o da receita (cabeçalho dos documentos) e o do atendimento (mensagens de confirmação).
+- A faixa "Modo de revisão" aparece inteira na ficha do paciente.
