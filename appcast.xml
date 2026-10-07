@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Consultorio</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 07 Oct 2026 19:24:15 -0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Primeira versão instalada: Pacientes, Agenda, Financeiro, Prontuário, Documentos e Procedimentos.
+- O app passa a se atualizar sozinho: avisa quando há versão nova e instala ao fechar.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio-0.1.0.zip" length="10732325" type="application/octet-stream" sparkle:edSignature="Mf0bq/HccOSXKhk+u/haroUYVHX2eJFXQe3CTgbzkCIyEE8mFRfHWA8UBQwSD1RgbqyoyUy0p4PpxnH4hrLsDw=="/>
+        </item>
+    </channel>
+</rss>

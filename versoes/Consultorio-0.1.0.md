@@ -1,0 +1,2 @@
+- Primeira versão instalada: Pacientes, Agenda, Financeiro, Prontuário, Documentos e Procedimentos.
+- O app passa a se atualizar sozinho: avisa quando há versão nova e instala ao fechar.
