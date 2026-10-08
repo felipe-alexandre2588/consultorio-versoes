@@ -1,0 +1,1 @@
+- Início do uso de verdade do Consultório. O conteúdo é o mesmo da 0.1.1.

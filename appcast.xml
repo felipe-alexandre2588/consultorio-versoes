@@ -3,6 +3,20 @@
     <channel>
         <title>Consultorio</title>
         <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 08 Oct 2026 17:32:58 -0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Início do uso de verdade do Consultório. O conteúdo é o mesmo da 0.1.1.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio-1.0.0.zip" length="10748690" type="application/octet-stream" sparkle:edSignature="3ReBbk11hpTczwr7jrCJZp+ZPGsBRPQqpDF6m/IeTnO3yRpSG8dsVkD4RzT1KXnW4Ztl4szJvr1T/uEOMLVdAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio4-3.delta" sparkle:deltaFrom="3" length="6350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7xR3ms2lFhZBx8Ng2mwHe5MtUV8SkE9WkCnilrkoZlOw2EIwthS444TiZRGP7HwihSLtCc+GEMaDsK50+rAEAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio4-2.delta" sparkle:deltaFrom="2" length="1110246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jYYyHqiHxf8yAqOrkhNqdsFwDXjJ+6JvK05aZy8TTByGQeXb/FCJEY3wBEwcEiCOOCzNZ+6eOvBFCrgeroFGAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Wed, 07 Oct 2026 20:28:49 -0300</pubDate>
             <sparkle:version>3</sparkle:version>
