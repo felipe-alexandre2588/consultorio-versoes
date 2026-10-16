@@ -3,6 +3,30 @@
     <channel>
         <title>Consultorio</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 16 Oct 2026 13:26:23 -0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Tela nova do atendimento: painel fixo com abas, formatação ao selecionar o texto e sinais vitais mais compactos.
+- Escriba: com o consentimento do paciente, o app ouve a consulta, presencial ou teleconsulta, e redige o SOAP. "Iniciar atendimento" já liga a escuta, e um só "Pausar" para tudo.
+- Na teleconsulta, use fone: com a caixa de som, a voz do paciente pode aparecer duas vezes na transcrição.
+- No rascunho do SOAP, "Usar o que falta" completa só o que você ainda não escreveu, e os sinais vitais citados são conferidos com os digitados.
+- Em Ajustes → IA, "Como eu escrevo o SOAP" ensina o seu jeito de escrever ao escriba.
+- Resumo do histórico do paciente pela IA, no atendimento, na ficha e na agenda, com "Preparar o dia".
+- Documentos no papel com o seu estilo e o código TUSS no pedido de exames; textos e favoritos editáveis em Ajustes.
+- Editor de documentos mais limpo; os documentos preparados ficam no painel do atendimento e são emitidos ao finalizar.
+- "Assinar no Adobe" abre o PDF direto no Adobe, sem arrastar.
+- Se faltar o backup antes de uma atualização, dá para configurá-lo ali mesmo.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio-1.1.0.zip" length="12274543" type="application/octet-stream" sparkle:edSignature="zoemSniQhu6zphasttyoG12ZamxeNIa8KN3Lk4XTtJqxFgpklIwrEfJBTzr4yaJOG1XKXXkEtvfxClJDGLY+Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio5-4.delta" sparkle:deltaFrom="4" length="3856242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QyyMMxnIDimXaqhew+YVxqdyE1FJA0Rv7XT3AFVMmym1POjbVsF7YihjzBgXeBYN5YDkq+j89Z19f96IyK2YAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio5-3.delta" sparkle:deltaFrom="3" length="3856406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ixLNnpMTs8LEpl4sNaCQ2zRIad+nqTCHrZcB0LYXI/7BRQQ96W4SLoVFh+R/wFFRT7yGaHu2sFnPjcP+zkvKDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio5-2.delta" sparkle:deltaFrom="2" length="3910642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4S+VavrMORs0SrZZ1UDuxIVgXw0uXGEgkfDFgeh3x1FHj0sUel0KK04kW6K2XmF0gDAzKYU0H888jY1WxAU3DQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 08 Oct 2026 17:32:58 -0300</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -30,17 +54,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio3-2.delta" sparkle:deltaFrom="2" length="1110578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Klxa426LFGvff7txBv/g+Q4rvcT/m8tO6+hkz2lP5tIv+6CgbArkQmUJh3AJssuTLJPTOLsCdut+/NZUMoxCAg=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 07 Oct 2026 19:24:15 -0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Primeira versão instalada: Pacientes, Agenda, Financeiro, Prontuário, Documentos e Procedimentos.
-- O app passa a se atualizar sozinho: avisa quando há versão nova e instala ao fechar.
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/felipe-alexandre2588/consultorio-versoes/main/versoes/Consultorio-0.1.0.zip" length="10732325" type="application/octet-stream" sparkle:edSignature="Mf0bq/HccOSXKhk+u/haroUYVHX2eJFXQe3CTgbzkCIyEE8mFRfHWA8UBQwSD1RgbqyoyUy0p4PpxnH4hrLsDw=="/>
         </item>
     </channel>
 </rss>

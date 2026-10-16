@@ -1,0 +1,10 @@
+- Tela nova do atendimento: painel fixo com abas, formatação ao selecionar o texto e sinais vitais mais compactos.
+- Escriba: com o consentimento do paciente, o app ouve a consulta, presencial ou teleconsulta, e redige o SOAP. "Iniciar atendimento" já liga a escuta, e um só "Pausar" para tudo.
+- Na teleconsulta, use fone: com a caixa de som, a voz do paciente pode aparecer duas vezes na transcrição.
+- No rascunho do SOAP, "Usar o que falta" completa só o que você ainda não escreveu, e os sinais vitais citados são conferidos com os digitados.
+- Em Ajustes → IA, "Como eu escrevo o SOAP" ensina o seu jeito de escrever ao escriba.
+- Resumo do histórico do paciente pela IA, no atendimento, na ficha e na agenda, com "Preparar o dia".
+- Documentos no papel com o seu estilo e o código TUSS no pedido de exames; textos e favoritos editáveis em Ajustes.
+- Editor de documentos mais limpo; os documentos preparados ficam no painel do atendimento e são emitidos ao finalizar.
+- "Assinar no Adobe" abre o PDF direto no Adobe, sem arrastar.
+- Se faltar o backup antes de uma atualização, dá para configurá-lo ali mesmo.
